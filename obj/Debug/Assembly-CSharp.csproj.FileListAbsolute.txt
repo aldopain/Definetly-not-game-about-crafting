@@ -1,0 +1,89 @@
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Assembly-CSharp.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEditor.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.UI.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.VR.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Mono.Cecil.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Unity.DataContract.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Unity.CecilTools.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.xml
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEditor.xml
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.UI.xml
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.VR.xml
+C:\UnityWorkspace\LeaUltimateRunner\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\UnityWorkspace\LeaUltimateRunner\obj\Debug\Assembly-CSharp.dll
+C:\UnityWorkspace\LeaUltimateRunner\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\obj\Debug\Assembly-CSharp.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\System.Data.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\obj\Debug\Assembly-CSharp.dll
+C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\Definetly not game about crafting\obj\Debug\Assembly-CSharp.pdb

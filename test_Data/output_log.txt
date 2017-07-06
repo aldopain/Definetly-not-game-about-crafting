@@ -1,0 +1,59 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 650 (ID=0xfc6)
+    Vendor:   NVIDIA
+    VRAM:     1985 MB
+    Driver:   10.18.13.6143
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.039 seconds
+Platform assembly: C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Яан\Desktop\Сохранить\UnityWorkspace\LeaUltimateRunner\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.677957 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 17.568214 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 464.
+Total: 0.298197 ms (FindLiveObjects: 0.025701 ms CreateObjectMapping: 0.036215 ms MarkObjects: 0.218755 ms  DeleteObjects: 0.016647 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.096407 ms
+
+Unloading 199 unused Assets to reduce memory usage. Loaded Objects now: 272.
+Total: 0.833841 ms (FindLiveObjects: 0.051695 ms CreateObjectMapping: 0.062793 ms MarkObjects: 0.403631 ms  DeleteObjects: 0.314552 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.545282 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 464.
+Total: 0.292355 ms (FindLiveObjects: 0.025993 ms CreateObjectMapping: 0.036800 ms MarkObjects: 0.215542 ms  DeleteObjects: 0.013434 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.333854 ms
+
+Unloading 199 unused Assets to reduce memory usage. Loaded Objects now: 272.
+Total: 0.920000 ms (FindLiveObjects: 0.067466 ms CreateObjectMapping: 0.062793 ms MarkObjects: 0.467301 ms  DeleteObjects: 0.321562 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.456787 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 464.
+Total: 0.301117 ms (FindLiveObjects: 0.024533 ms CreateObjectMapping: 0.037092 ms MarkObjects: 0.225181 ms  DeleteObjects: 0.014019 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1eb8 -> priority: 1 
