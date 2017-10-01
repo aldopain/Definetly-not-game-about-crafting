@@ -21,7 +21,6 @@ public class LandscapeGenerator {
 	int[] heights = new int[lenght];
 	System.Random rng = new System.Random();
 
-	// Use this for initialization
 	void Start () {
 		generateLandscape ();
 	}
