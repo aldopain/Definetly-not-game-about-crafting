@@ -10,8 +10,10 @@ public class GameManager : MonoBehaviour {
 		getAllItems ();
 	}
 
+	//надо переделать
 	void getAllItems(){
-		List<List<string>> db = DatabaseManager.getDB (new string[]{"ID","CraftFrom","CraftedCount","Name","Enable"}, "Craft.db", "Objects");
+		//TODO
+		List<List<string>> db = null;
 		foreach (List<string> current in db) {
 			GameObject toAdd = Instantiate (ItemPattern);
 			Item it = toAdd.GetComponent<Item> ();

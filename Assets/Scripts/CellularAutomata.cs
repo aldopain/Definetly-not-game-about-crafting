@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
+//клеточный автомат для генерации пещер
 public class CellularAutomata {
 
 	const int height = 30;
@@ -14,6 +15,7 @@ public class CellularAutomata {
 	int stepCount = 16;
 	System.Random rng = new System.Random();
 
+	//инициализация единицами с вероятностью spawnChance для каждой ячейки
 	void inizialize(){
 		for(int i = 0; i < height; i++)
 			for(int j = 0; j < lenght; j++)
@@ -21,6 +23,7 @@ public class CellularAutomata {
 					cave[i, j] = 1;
 	}
 
+	//возвращает элемент по индексу [y, x], если он есть
 	int getElement(int x, int y){
 		try{
 			return cave[y, x];
@@ -29,6 +32,7 @@ public class CellularAutomata {
 		}
 	}
 
+	//считает количество соседей клетки [y, x]
 	int countNeighbors(int x, int y){
 		int[] iter = {1, -1, 0};
 		int count = 0;
@@ -39,6 +43,7 @@ public class CellularAutomata {
 		return count;
 	}
 
+	//одна итерация клеточного автомата
 	void iterationStep(){
 		int[,] nextIterationCave = new int[height, lenght];
 		for(int i = 0; i < height; i++)
@@ -54,6 +59,7 @@ public class CellularAutomata {
 		cave = nextIterationCave;
 	}
 
+	//возвращает матрицу после stepCount итераций iterationStep()
 	public int[,] getMatrix(){
 		inizialize();
 		for(int i = 0; i < stepCount; i++){

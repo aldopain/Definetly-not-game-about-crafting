@@ -4,12 +4,12 @@ using UnityEngine;
 using System;
 
 public class Item : MonoBehaviour {
-	public string id;
+	private string id;
 	private string recipe;
 	private int craftCount;
 	private string itemName;
 	private bool isRecipeEnable;
-
+	//прокомментирую, как станет актуально
 	// Use this for initialization
 	void Start () {
 		
