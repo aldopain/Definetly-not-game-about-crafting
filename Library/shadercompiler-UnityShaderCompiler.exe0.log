@@ -1,2 +1,4 @@
-Base path: C:/Program Files/Unity/Editor/Data
-Cmd: getPlatforms
+Base path: C:/Jaann/Editor/Data
+Cmd: initializeCompiler
+
+Quitting shader compiler process

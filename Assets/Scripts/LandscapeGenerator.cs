@@ -21,8 +21,16 @@ public class LandscapeGenerator {
 	int[] heights = new int[lenght];
 	System.Random rng = new System.Random();
 
-	void Start () {
-		generateLandscape ();
+	void SpawnOres(){
+		List<List<string>> oreData = new DatabaseManager ("Craft.db", "Ores").getData ("*");
+		foreach(List<string> curr in oreData){
+			Spawner s = new Spawner (curr, landscape);
+			for (int i = 0; i < maxHeight; i++)
+				for (int j = 0; j < lenght; j++) {
+					if(landscape[i, j] == 1)
+						landscape = s.TryToSpawn (new Vector2 (i, j));
+				}
+		}
 	}
 
 	void generateCaveHeights(){
@@ -113,6 +121,7 @@ public class LandscapeGenerator {
 		testAlgorithm();
 		testAlgorithm2();
 		testAlgorithm3();
+		SpawnOres ();
 		return landscape;
 	}
 }

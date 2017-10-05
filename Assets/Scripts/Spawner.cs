@@ -1,5 +1,4 @@
 using System;
-using System.Drawing;
 using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
@@ -26,21 +25,21 @@ public class Spawner
         this.landscape = landscape;
     }
 
-    public void TryToSpawn(System.Drawing.Point pointOfSpawn)
+	public int[,] TryToSpawn(Vector2 pointOfSpawn)
     {
         System.Random rng = new System.Random();
         Double kek = ((Double)rng.Next(100)) / 100;
         Thread.Sleep(1);
-        if (kek <= this.chance)
+		if (kek <= this.chance)
         {
            this.Spawn(pointOfSpawn);
         }
-        
+		return landscape;
     }
 
     public void GetInfo()
     {
-        Console.WriteLine("id = {0}, chance = {1}, minHeight = {2}, maxHeight = {3}, minAmount = {4}, maxAmount = {5}", id, chance, minHeight, maxHeight, minAmount, maxAmount);
+        //print("id = {0}, chance = {1}, minHeight = {2}, maxHeight = {3}, minAmount = {4}, maxAmount = {5}", id, chance, minHeight, maxHeight, minAmount, maxAmount);
     }
 
     public Int32 GetMaxHeight()
@@ -53,13 +52,12 @@ public class Spawner
         return this.minHeight;
     }
 
-    private void Spawn(Point pointOfSpawn)
+    private void Spawn(Vector2 pointOfSpawn)
     {
-        landscape[pointOfSpawn.X, pointOfSpawn.Y] = this.id;
-        List<Point> cells = new List<Point>();
-        List<Point> spawnedCells = new List<Point>();
+		landscape[(int)pointOfSpawn.x, (int)pointOfSpawn.y] = this.id;
+        List<Vector2> cells = new List<Vector2>();
+        List<Vector2> spawnedCells = new List<Vector2>();
         Int32 amount = (new System.Random()).Next(this.maxAmount - this.minAmount) + this.minAmount;
-        
         Int32[] step = {0, 1, -1};
         Boolean communismBroke = false;
         spawnedCells.Add(pointOfSpawn);
@@ -73,17 +71,17 @@ public class Spawner
                     {
                         if(itemX != 0 && itemY != 0)
                         {
-                            if (spawnedCells[k].X + itemX > 0 && spawnedCells[k].X + itemX < landscape.GetLength(0) - 1 && spawnedCells[k].Y + itemY >= minHeight - 1 && spawnedCells[k].Y + itemY <= maxHeight - 1)
+                            if (spawnedCells[k].x + itemX > 0 && spawnedCells[k].x + itemX < landscape.GetLength(0) - 1 && spawnedCells[k].y + itemY >= minHeight - 1 && spawnedCells[k].y + itemY <= maxHeight - 1)
                             {
-                                if (landscape[spawnedCells[k].X + itemX, spawnedCells[k].Y + itemY] == 1)
+								if (landscape[(int)spawnedCells[k].x + itemX, (int)spawnedCells[k].y + itemY] == 1)
                                 {
-                                    cells.Add(new Point(spawnedCells[k].X + itemX, spawnedCells[k].Y + itemY));
+                                    cells.Add(new Vector2(spawnedCells[k].x + itemX, spawnedCells[k].y + itemY));
                                 }
                             }
                         }
                     }
                 }
-                    cells.RemoveAll(x => landscape[x.X, x.Y] != 1);
+				cells.RemoveAll(x => landscape[(int)x.x, (int)x.y] != 1);
                 
                 if(cells.Count == 0)
                 {
@@ -98,9 +96,9 @@ public class Spawner
                 break;
             }
             System.Random rng = new System.Random();
-            Point nextPoint = cells[rng.Next(cells.Count - 1)];
-            landscape[nextPoint.X, nextPoint.Y] = this.id;
-            spawnedCells.Add(nextPoint);
+            Vector2 nextVector2 = cells[rng.Next(cells.Count - 1)];
+			landscape[(int)nextVector2.x, (int)nextVector2.y] = this.id;
+            spawnedCells.Add(nextVector2);
             
         }
     }
